@@ -1,58 +1,61 @@
+--- no-print ---
+
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/boat-race-scratch2).
+
+--- /no-print ---
+
 ## Introduction
 
-Add project description here. What will learners be making?
+In this resource, you are going to learn how to make a racing game. The player uses the mouse to navigate a boat to an island without bumping into obstacles.
 
 ### What you will make
 
 --- no-print ---
-Add instructions for using the embedded content here.
-
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276662533/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/boat_race_demo.png">
 </div>
 --- /no-print ---
 
 --- print-only ---
-![Complete project](images/showcase_static.png)
+![boat race demo](images/boat_race_demo.png)
 --- /print-only ---
 
 --- collapse ---
 ---
 title: What you will need
 ---
+
 ### Hardware
 
-+ Describe hardware here
+A computer capable of running Scratch 3
 
 ### Software
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
-
+Downloads can be found [here](http://rpf.io/p/en/boat-race-go){:target="_blank"}.
 --- /collapse ---
 
 --- collapse ---
 ---
 title: What you will learn
 ---
-
-+ Two or three learning objectives
-+ ...should go here
-
+- Use operators to compare numbers in Scratch
+- Add code to detect when a sprite is touching a colour in Scratch
+- Use a variable to record the time in Scratch
 --- /collapse ---
 
 --- collapse ---
 ---
 title: Additional information for educators
 ---
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/boat-race/print){:target="_blank"}.
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
-
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
+You can find the [completed project here](http://rpf.io/p/en/boat-race-get){:target="_blank"}.
 
 --- /collapse ---
+
+![Tracking pixel](https://code.org/api/hour/begin_codeclub_boatrace.png)
