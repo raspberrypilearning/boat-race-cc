@@ -46,6 +46,8 @@ title: What you will learn
 - Use operators to compare numbers in Scratch
 - Add code to detect when a sprite is touching a colour in Scratch
 - Use a variable to record the time in Scratch
+- Understand the skills which are developed towards a career involving Computing
+
 --- /collapse ---
 
 --- collapse ---
