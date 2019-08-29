@@ -1,14 +1,14 @@
-# GBICi5-Scratch-1-BoatRace
+# boat-race 
 
-![GBICi5-Scratch-1-BoatRace](banner.png)
+![boat-race](en/images/small_banner.png)
 
-Find the project online at [projects.raspberrypi.org/en/projects/GBICi5-Scratch-1-BoatRace](https://projects.raspberrypi.org/en/projects/GBICi5-Scratch-1-BoatRace)
+Find the project online at [projects.raspberrypi.org/en/projects/boat-race](https://projects.raspberrypi.org/en/projects/boat-race)
 
 ## Resources
-For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/GBICi5-Scratch-1-BoatRace/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/GBICi5-Scratch-1-BoatRace/tree/master/en/solutions).
+For solutions and project materials, see [en/resources](https://github.com/raspberrypilearning/boat-race/tree/master/en/resources)
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Licence
- See [LICENCE.md](LICENCE.md)
+ See [LICENSE.md](LICENSE.md)
