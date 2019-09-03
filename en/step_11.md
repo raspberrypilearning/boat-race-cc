@@ -17,3 +17,5 @@ Click on the green flag to start. Watch the sequence of colours shown by the dan
 --- print-only ---
 ![screenshot of finished game](images/memory-screenshot.png)
 --- /print-only ---
+
+![progress bar](images/s1-6.png)
