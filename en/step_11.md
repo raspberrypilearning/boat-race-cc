@@ -18,7 +18,7 @@ Click on the green flag to start. Watch the sequence of colours shown by the dan
 
 ![progress bar](images/s1-6.png)
 
-Click on the ‘Click me’ button to complete the Plenary for this module. Then start another module and learn something completely new such as the 'Memory' project in the Scratch 2 module.
+Click on the ‘Click me’ button to complete the Plenary for this module. Then start another module and learn something completely new such as the 'Memory' project in the Scratch 2 module:
 
 <a href="https://codeclub.org/en/projects-cc">
 <img src="images/Clickme.png">
