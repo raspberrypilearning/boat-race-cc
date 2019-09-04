@@ -2,8 +2,6 @@
 
 Congratulations on completing the 'Boat race' project!  Would you like to try something a little more challenging?
 
-You could try out 'Memory' project in the Scratch 2 module.
-
 --- no-print ---
 Click on the green flag to start. Watch the sequence of colours shown by the dancer's dress and listen to the accompanying drum beats, then repeat the colours back to her. If you get the colours' order wrong, it's game over!
 
@@ -20,7 +18,9 @@ Click on the green flag to start. Watch the sequence of colours shown by the dan
 
 ![progress bar](images/s1-6.png)
 
-Click on the 'Click me' button to try the next project:
+You could try out 'Memory' project in the Scratch 2 module.
+
+Click on the 'Click me' button to try another module:
 
 <a href="https://codeclub.org/en/projects-cc">
 <img src="images/Clickme.png">
